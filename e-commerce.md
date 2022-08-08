@@ -3,7 +3,7 @@
 Create a .NET Core Web API.
 
 ## Steps
-- Fork [dotnet-training/E-Commerce](https://github.com/dotnet-training/E-Commerce) repository
+- Fork [dotnet-training/E-Commerce](https://github.com/dotnet-training/E-Commerce) repository.
 - Implement updates to your repository. 
 
 ## Requirements
