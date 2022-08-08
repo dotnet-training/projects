@@ -23,6 +23,8 @@ Use the following tools and frameworks:
 - [Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio)
 - [.NET 6.0 - JWT Authentication with Refresh Tokens Tutorial with Example API](https://jasonwatmore.com/post/2022/01/24/net-6-jwt-authentication-with-refresh-tokens-tutorial-with-example-api)
 - [.NET 6.0 - Role Based Authorization Tutorial with Example API](https://jasonwatmore.com/post/2022/02/18/net-6-role-based-authorization-tutorial-with-example-api)
+- [
+JWT Authentication And Authorization In .NET 6.0 With Identity Framework](https://www.c-sharpcorner.com/article/jwt-authentication-and-authorization-in-net-6-0-with-identity-framework/)
 
 
 ## Enhancements
