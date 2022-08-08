@@ -2,6 +2,9 @@
 
 Create a .NET Core Web API.
 
+## Steps
+- Fork [dotnet-training/E-Commerce](https://github.com/dotnet-training/E-Commerce) repository
+- Implement updates to your repository. 
 
 ## Requirements
 - Must have endpoints with CRUD operations (Create, Read, Update, Delete) for Products, Categories, etc.
@@ -36,4 +39,4 @@ Use the following tools and frameworks:
 - [Getting Started with AutoMapper in ASP.NET Core](https://code-maze.com/automapper-net-core/)
 - [C# Generics](https://www.tutorialsteacher.com/csharp/csharp-generics)
 - [Data Seeding](https://docs.microsoft.com/en-us/ef/core/modeling/data-seeding)
-- 
+
